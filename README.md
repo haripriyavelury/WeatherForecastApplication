@@ -1,5 +1,4 @@
 # WeatherForecastApplication
-# Weather Forecast Application  
 
 ## Overview  
 The Weather Forecast Application is a web-based application that allows users to search and view current weather 
