@@ -23,7 +23,7 @@ data and a detailed 5-day forecast for any city around the world. The applicatio
 ### Installation  
 1.  GIT HUB repository:  
 
-    git link https://github.com/haripriyavelury/
+    git link https://github.com/haripriyavelury/WeatherForecastApplication
       
 2. Open `index.html` in your preferred web browser.  
 
